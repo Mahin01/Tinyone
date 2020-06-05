@@ -1,0 +1,157 @@
+@font-face{
+    font-family: 'PT Sans', sans-serif;
+}
+/* Header style */
+header{
+    background-color: #fcdb00;
+    padding:35px 0px;
+}
+
+#menu .navbar ul li a{
+    color:#010101 !important;
+    font-weight: 700;
+    font-size: 22px;
+    padding: 0 40px;
+}
+
+/* slider style */
+.slider{
+    background-color: #fcdb00;
+    padding: 40px 0 80px 0;
+}
+.inspire{
+    color:#010101; 
+    margin-top: 70px;
+}
+
+.inspire .list-inline-item i{
+    padding:0 10px;
+}
+
+.inspire h1{
+    font-weight:400;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.inspire h3{
+    font-weight:400;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.inspire p{
+    font-weight:400;
+    font-size: 16px;
+}
+
+.slider .carousel-indicators{
+    bottom: -80px;
+}
+
+.slider .carousel-indicators li{
+    width:15px;
+    height:15px;
+    margin:5px;
+    border-radius: 50%;
+    background-color: #feed80;
+}
+
+.slider .carousel-indicators li.active{
+    background-color: #fff;
+}
+
+/* Features section */
+
+.features{
+    padding: 120px 0 160px 0;
+}
+.title{
+    margin-bottom: 80px;
+}
+.features .title h1{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.features .title p{
+    font-size: 20px;
+}
+
+.features .icon{
+    color:#010101;
+}
+
+.features .icon-content h3{
+    font-size: 22px;
+}
+
+.features .icon-content p{
+    text-align: inherit;
+    font-size: 16px;
+}
+
+.features .upper{
+    margin-bottom: 90px;
+}
+
+/* subscription section */
+.subscription{
+    padding: 100px 0 100px 0;
+    background-color: #010101;
+}
+
+.subscription .title{
+    margin-bottom: 40px;
+}
+
+.subscription .title h1{
+    font-size: 32px;
+    font-weight: 700;
+    color:#fcdb00;
+}
+
+.subscription .title p{
+    font-size: 20px;
+    color:#676767
+}
+
+.subscription .email{
+    font-size: 16px;
+    padding: 25px 15px;
+    color: #898989;
+}
+
+.subscription .btn-custom{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 12px 35px;
+    color: #010101;
+    background-color: #fcdb00;
+}
+
+/* social icon design */
+.social ul li{
+    padding: 0 10px;
+}
+
+.social ul li i{
+    color: #fcdb00;
+}
+
+/* footer */
+
+footer{
+    padding: 70px 0;
+    background-color: #010101;
+    color: #bcbcbc;
+}
+footer .nav{
+    padding:10px 0;
+}
+footer .nav .nav-item a{
+    text-decoration: none;
+    color: #bcbcbc;
+}
+
+
